@@ -12,7 +12,6 @@ I've implemented 5 levels of Plants vs. Zombies game, using Java SE in 2015, whe
 ![](/Screenshots/2.png)
 ![](/Screenshots/3.png)
 ![](/Screenshots/4.png)
-![](/Screenshots/5.png)
 ![](/Screenshots/6.png)
 ![](/Screenshots/7.png)
 ![](/Screenshots/9.png)
