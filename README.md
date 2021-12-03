@@ -2,7 +2,7 @@
 
 ## Notes on the project
 
-I've implemented 5 levels of Plants vs. Zombies game, using Java SE in 2015, when I was new to Java programming language.
+I've implemented 5 levels of Plants vs. Zombies game using Java SE in 2015, when I was new to Java programming language.
 
 > Plants vs. Zombies game was my course project for advanced computer programming. So, it might have some bugs!
 
